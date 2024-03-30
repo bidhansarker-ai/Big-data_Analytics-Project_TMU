@@ -33,8 +33,8 @@ The dataset includes staffing numbers across various HHS agencies without missin
 - R² Score
 
 ## Conclusions
-The project provides valuable insights into HHS staffing patterns and demonstrates the effectiveness of machine learning models in predicting staffing levels. 
+This project yields significant insights into staffing patterns within HHS and highlights the efficacy of machine learning models in predicting staffing levels.
 
-## Future Work
-Further exploration of advanced synthetic data generation techniques and additional model tuning could be conducted to improve the analysis and predictions.
+## Future Directions
+Future endeavors could involve delving deeper into advanced synthetic data generation techniques and refining model tuning to enhance the analysis and prediction accuracy.
 
