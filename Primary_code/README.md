@@ -2,15 +2,15 @@
 # HHS Staffing Plan Analysis
 
 ## Objective
-The primary objective of this project is to analyze the HHS (Health and Human Services) staffing plan dataset to identify staffing patterns and predict the total number of staff involved across various HHS agencies. 
+The main goal of this project is to examine the HHS (Health and Human Services) staffing plan dataset. The objective is to uncover staffing patterns within different HHS agencies and accurately predict the total staff count involved across these agencies.
 ## Methodology
-The project follows a structured approach that includes:
-- **Data Preprocessing**: Preparation of the dataset for analysis, including the removal of irrelevant features.
-- **Model Training and Evaluation**: Application of Linear Regression, Random Forest, and Gradient Boosting models to predict the total staff involved. Models are evaluated based on Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
-- **Comparative Analysis**: Conducting a comparative analysis of the models to identify the most effective approach for the given dataset.
+The project adheres to a systematic methodology, comprising the following stages:
+- **Data Preprocessing**: Priming the dataset for analysis by eliminating extraneous features.
+- **Model Training and Evaluation**: Employing Linear Regression, Random Forest, and Gradient Boosting models to forecast the total staff engaged. Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score gauge model performance.
+- **Comparative Analysis**: Undertaking a comparative assessment of the models to ascertain the optimal approach tailored to the dataset.
 
 ## Experimental Design
-The project employs cross-validation as part of the experimental design to ensure the models' performance is robust and reliable across different subsets of the data.
+As part of the experimental design, the project utilizes cross-validation to ascertain the robustness and reliability of the models' performance across various subsets of the data.
 
 ## Repository Contents
 This GitHub repository includes the following:
